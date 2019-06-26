@@ -1,0 +1,10 @@
+{
+    "vendor": "My Company",
+    "largeIcon": "largeIcon.png",
+    "icon": "icon.png",
+    "main": "index.html",
+    "id": "com.raul4.app",
+    "title": "WebOs3",
+    "type": "web",
+    "version": "0.0.1"
+}
